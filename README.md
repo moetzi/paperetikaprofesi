@@ -1,0 +1,1 @@
+Mutiara Noor Fauzia, Indrawan, E., Mutiara Nurshadrina Rafifah, & Nur Aini Rakhmawati. (2024). SVM and Datasets for Indonesia's Customs Sentiment Analysis (1.0). Zenodo. https://doi.org/10.5281/zenodo.11281165
